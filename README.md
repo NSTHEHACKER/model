@@ -1,4 +1,4 @@
-Peacock Object Detection using YOLOv5s
+<h1>Peacock Object Detection using YOLOv5s</h1>
 
 <h2>This repository contains a simple object detection program using the YOLOv5s model, specifically trained on a custom dataset of peacocks.</h2>
 
